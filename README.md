@@ -6,4 +6,5 @@ The idea behind HeartRacer was to create an interactive music-based experience t
 CONTROLS:
 
 Space: Jump
+
 Left Ctrl: Crouch/Duck
